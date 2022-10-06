@@ -1,0 +1,9 @@
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.dll
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.xml
+D:\repos\Proxor\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
