@@ -3,4 +3,5 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DDB70CB7-CF2A-41EB-8FDC-EE1CDAF59EA4::.NETFramework,Version=v4.7.2::ConsoleApplication.CalculatorTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Proxor/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,9 @@
+D:\repos\Proxor\ConsoleApplication\Calculator\bin\Debug\Calculator.exe
+D:\repos\Proxor\ConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+D:\repos\Proxor\ConsoleApplication\Calculator\bin\Debug\nunit.framework.dll
+D:\repos\Proxor\ConsoleApplication\Calculator\bin\Debug\nunit.framework.xml
+D:\repos\Proxor\ConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\repos\Proxor\ConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\repos\Proxor\ConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+D:\repos\Proxor\ConsoleApplication\Calculator\obj\Debug\Calculator.exe
+D:\repos\Proxor\ConsoleApplication\Calculator\obj\Debug\Calculator.pdb

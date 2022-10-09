@@ -1,13 +1,13 @@
 ﻿using NUnit.Framework;
 
-namespace ConsoleApplication
+namespace Proxor.Calculator
 {
     public sealed class CalculatorTests
     {
         [Test]
         public void TestSquareEquation()
         {
-            var calculator = new Calculator();
+            var calculator = new Calculator(new CalculatorHistory());
 
             var actualX1 = calculator.SquareEquation(3, 7, -10);
             var expectedX1 = 1;
