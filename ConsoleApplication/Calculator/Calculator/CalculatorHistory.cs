@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Proxor.Calculator
+namespace Proxor
 {
     public sealed class CalculatorHistory
     {

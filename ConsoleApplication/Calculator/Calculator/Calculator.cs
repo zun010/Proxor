@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Proxor.Calculator
+namespace Proxor
 {
     public class Calculator
     {

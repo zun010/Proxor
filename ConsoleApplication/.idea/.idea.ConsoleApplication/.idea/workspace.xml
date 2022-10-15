@@ -6,29 +6,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d7663b-e49f-4502-8852-a05676c41a91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/CalculatorHistory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Bag.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Beer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Can.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Entity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/FirstAidKit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Fist.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Food.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Loot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Medicine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Pistol.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Rifle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Weapon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Zombie.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/ConsoleApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/Tests/CalculatorTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/bin/Debug/ConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/bin/Debug/ConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/bin/Debug/nunit.framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/nunit.framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/bin/Debug/nunit.framework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/nunit.framework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.csproj.CopyComplete" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/obj/Debug/ConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/ConsoleApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApplication/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/CalculatorHistory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +58,27 @@
       <option value="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" />
       <option value="$PROJECT_DIR$/Calculator/CalculatorHistory.cs" />
       <option value="$PROJECT_DIR$/Calculator/Program.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Unit.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Game.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Bag.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Entity.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Player.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Weapon.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Pistol.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Zombie.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Rifle.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Fist.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Beer.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Food.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Can.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Medicine.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/FirstAidKit.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Fg4ZM34R21pLmkzRwgdJ93NXUv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -124,6 +141,7 @@
       <workItem from="1664900454095" duration="5467000" />
       <workItem from="1665062302632" duration="7897000" />
       <workItem from="1665329315985" duration="8180000" />
+      <workItem from="1665845426934" duration="5436000" />
     </task>
     <servers />
   </component>

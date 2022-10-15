@@ -44,8 +44,23 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Calculator.cs" />
-        <Compile Include="CalculatorHistory.cs" />
+        <Compile Include="Calculator\Calculator.cs" />
+        <Compile Include="Calculator\CalculatorHistory.cs" />
+        <Compile Include="OOP\Beer.cs" />
+        <Compile Include="OOP\Can.cs" />
+        <Compile Include="OOP\Entity.cs" />
+        <Compile Include="OOP\FirstAidKit.cs" />
+        <Compile Include="OOP\Fist.cs" />
+        <Compile Include="OOP\Food.cs" />
+        <Compile Include="OOP\Game.cs" />
+        <Compile Include="OOP\Bag.cs" />
+        <Compile Include="OOP\Loot.cs" />
+        <Compile Include="OOP\Medicine.cs" />
+        <Compile Include="OOP\Pistol.cs" />
+        <Compile Include="OOP\Player.cs" />
+        <Compile Include="OOP\Rifle.cs" />
+        <Compile Include="OOP\Weapon.cs" />
+        <Compile Include="OOP\Zombie.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Tests\CalculatorTests.cs" />

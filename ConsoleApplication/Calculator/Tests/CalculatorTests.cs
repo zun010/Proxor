@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Proxor.Calculator
+namespace Proxor
 {
     public sealed class CalculatorTests
     {

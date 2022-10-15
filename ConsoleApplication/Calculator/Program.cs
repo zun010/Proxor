@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Proxor.Calculator
+namespace Proxor
 {
     public class Program
     {

@@ -6,10 +6,29 @@
     <e p="D:\repos\Proxor\ConsoleApplication" t="IncludeFlat">
       <e p="Calculator" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Calculator.cs" t="Include" />
+        <e p="Calculator" t="Include">
+          <e p="Calculator.cs" t="Include" />
+          <e p="CalculatorHistory.cs" t="Include" />
+        </e>
         <e p="Calculator.csproj" t="IncludeRecursive" />
-        <e p="CalculatorHistory.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="OOP" t="Include">
+          <e p="Bag.cs" t="Include" />
+          <e p="Beer.cs" t="Include" />
+          <e p="Can.cs" t="Include" />
+          <e p="Entity.cs" t="Include" />
+          <e p="FirstAidKit.cs" t="Include" />
+          <e p="Fist.cs" t="Include" />
+          <e p="Food.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="Loot.cs" t="Include" />
+          <e p="Medicine.cs" t="Include" />
+          <e p="Pistol.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Rifle.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+          <e p="Zombie.cs" t="Include" />
+        </e>
         <e p="packages.config" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
