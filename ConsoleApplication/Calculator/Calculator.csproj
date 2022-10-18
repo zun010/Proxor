@@ -59,6 +59,7 @@
         <Compile Include="OOP\Pistol.cs" />
         <Compile Include="OOP\Player.cs" />
         <Compile Include="OOP\Rifle.cs" />
+        <Compile Include="OOP\State.cs" />
         <Compile Include="OOP\Weapon.cs" />
         <Compile Include="OOP\Zombie.cs" />
         <Compile Include="Program.cs" />

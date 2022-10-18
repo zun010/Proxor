@@ -5,6 +5,8 @@
        public int Starvation { get; set; }
        public int Hydration { get; set; }
 
+       public State State { get; set; } = State.Idle;
+
        public bool GoForward()
        {
            return false;

@@ -26,6 +26,7 @@
           <e p="Pistol.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Rifle.cs" t="Include" />
+          <e p="State.cs" t="Include" />
           <e p="Weapon.cs" t="Include" />
           <e p="Zombie.cs" t="Include" />
         </e>

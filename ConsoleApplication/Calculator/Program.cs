@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace Proxor
 {
@@ -7,9 +6,21 @@ namespace Proxor
     {
         public static void Main()
         {
-            RunCalculator();
+            // RunCalculator();
+            RunGame();
         }
 
+        private static void RunGame()
+        {
+            var game = new Game();
+            while (true)
+            {
+                Console.WriteLine("Что делаем, сталкер?");
+                game.Update(Console.ReadLine());
+            }
+            
+        }
+        
         private static void RunCalculator()
         {
             var calculatorHistory = new CalculatorHistory();
