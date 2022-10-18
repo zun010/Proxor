@@ -7,6 +7,11 @@ namespace Proxor
         private string[] history = new string[1];
         private int index;
         
+        public CalculatorHistory()
+        {
+            
+        }
+        
         public void Append(string record)
         {
             history[index] = record;

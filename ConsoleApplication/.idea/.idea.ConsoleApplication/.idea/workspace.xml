@@ -6,29 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d7663b-e49f-4502-8852-a05676c41a91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Bag.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Beer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Can.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Entity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/FirstAidKit.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Fist.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Food.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Game.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Loot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Medicine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Pistol.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Player.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Rifle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Weapon.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/Zombie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/Calculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/CalculatorHistory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +51,7 @@
       <option value="$PROJECT_DIR$/Calculator/OOP/Can.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Medicine.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/FirstAidKit.cs" />
+      <option value="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2Fg4ZM34R21pLmkzRwgdJ93NXUv" />
