@@ -5,7 +5,7 @@ namespace Proxor
     public sealed class CalculatorHistory
     {
         private string[] history = new string[1];
-        private int index = 0;
+        private int index;
         
         public void Append(string record)
         {

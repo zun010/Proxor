@@ -4,11 +4,11 @@ namespace Proxor
 {
     public class Calculator
     {
-        private CalculatorHistory calculatorHistory;
+        private CalculatorHistory _calculatorHistory;
         
         public Calculator(CalculatorHistory calculatorHistory)
         {
-            this.calculatorHistory = calculatorHistory;
+            _calculatorHistory = calculatorHistory;
         }
         
         public double Sum(double a, double b)
@@ -17,7 +17,7 @@ namespace Proxor
 
             sum = a + b;
 
-            calculatorHistory.Append($"{a} + {b}");
+            _calculatorHistory.Append($"{a} + {b}");
             return sum;
         }
 
@@ -26,7 +26,7 @@ namespace Proxor
             double multiply;
             multiply = a * b;
 
-            calculatorHistory.Append($"{a} * {b}");
+            _calculatorHistory.Append($"{a} * {b}");
             return multiply;
         }
 
@@ -34,13 +34,13 @@ namespace Proxor
         {
             double divide = a / b;
 
-            calculatorHistory.Append($"{a} / {b}");
+            _calculatorHistory.Append($"{a} / {b}");
             return divide;
         }
 
         public double Subtraction(double a, double b)
         {
-            calculatorHistory.Append($"{a} - {b}");
+            _calculatorHistory.Append($"{a} - {b}");
             return a - b;
         }
 
