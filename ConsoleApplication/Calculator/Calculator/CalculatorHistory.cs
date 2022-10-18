@@ -9,7 +9,6 @@ namespace Proxor
         
         public CalculatorHistory()
         {
-            
         }
         
         public void Append(string record)
