@@ -56,6 +56,7 @@
         <Compile Include="OOP\Bag.cs" />
         <Compile Include="OOP\Loot.cs" />
         <Compile Include="OOP\Medicine.cs" />
+        <Compile Include="OOP\GoForwardResult.cs" />
         <Compile Include="OOP\Pistol.cs" />
         <Compile Include="OOP\Player.cs" />
         <Compile Include="OOP\Rifle.cs" />

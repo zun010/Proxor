@@ -6,16 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d7663b-e49f-4502-8852-a05676c41a91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/OOP/State.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/OOP/GoForwardResult.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/Calculator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/OOP/Bag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/OOP/Bag.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/OOP/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/OOP/Entity.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/OOP/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/OOP/Game.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/OOP/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/OOP/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/bin/Debug/Calculator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/obj/Debug/Calculator.pdb" afterDir="false" />
     </list>
@@ -49,8 +51,6 @@
       <option value="$PROJECT_DIR$/Calculator/Tests/CalculatorTests.cs" />
       <option value="$PROJECT_DIR$/Calculator/CalculatorHistory.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Unit.cs" />
-      <option value="$PROJECT_DIR$/Calculator/OOP/Bag.cs" />
-      <option value="$PROJECT_DIR$/Calculator/OOP/Entity.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Weapon.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Pistol.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Zombie.cs" />
@@ -63,9 +63,13 @@
       <option value="$PROJECT_DIR$/Calculator/OOP/FirstAidKit.cs" />
       <option value="$PROJECT_DIR$/Calculator/Calculator/CalculatorHistory.cs" />
       <option value="$PROJECT_DIR$/Calculator/Calculator/Calculator.cs" />
-      <option value="$PROJECT_DIR$/Calculator/Program.cs" />
-      <option value="$PROJECT_DIR$/Calculator/OOP/Player.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/State.cs" />
+      <option value="$PROJECT_DIR$/Calculator/Program.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/NextStateRandomizer.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Entity.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Bag.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/Player.cs" />
+      <option value="$PROJECT_DIR$/Calculator/OOP/GoForwardResult.cs" />
       <option value="$PROJECT_DIR$/Calculator/OOP/Game.cs" />
     </changedPaths>
   </component>

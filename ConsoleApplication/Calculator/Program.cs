@@ -13,6 +13,8 @@ namespace Proxor
         private static void RunGame()
         {
             var game = new Game();
+            game.Initialize();
+            
             while (true)
             {
                 Console.WriteLine("Что делаем, сталкер?");

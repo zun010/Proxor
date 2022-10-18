@@ -21,6 +21,7 @@
           <e p="Fist.cs" t="Include" />
           <e p="Food.cs" t="Include" />
           <e p="Game.cs" t="Include" />
+          <e p="GoForwardResult.cs" t="Include" />
           <e p="Loot.cs" t="Include" />
           <e p="Medicine.cs" t="Include" />
           <e p="Pistol.cs" t="Include" />

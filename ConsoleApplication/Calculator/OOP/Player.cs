@@ -1,4 +1,6 @@
-﻿namespace Proxor
+﻿using System;
+
+namespace Proxor
 {
     public sealed class Player : Entity
     {
@@ -7,9 +9,21 @@
 
        public State State { get; set; } = State.Idle;
 
-       public bool GoForward()
+       public GoForwardResult GoForward()
        {
-           return false;
+           Random random = new Random();
+           int way = random.Next(3);
+           switch (way)
+           {
+               case 0:
+                   return GoForwardResult.GetEmptyResult();
+               case 1:
+                   return GoForwardResult.GetResultWithLoot();
+               case 2:
+                   return GoForwardResult.GetResultWithZombies();
+               default:
+                   throw new NotImplementedException();
+           }
        }
 
        public bool Attack(Entity target)
